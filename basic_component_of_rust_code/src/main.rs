@@ -1,3 +1,5 @@
+// main function
 fn main() {
-    println!("Hello, world!");
+    // println! -> macro
+    println!("Hello, world!"); // semicolon indicating a line ending
 }
